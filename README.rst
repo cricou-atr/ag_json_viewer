@@ -15,7 +15,7 @@ To use this module, you need to decorate xml text field with widget ``ag_json_vi
         <form string="Form name">
             <sheet>
                 <group>
-                    <field name="my_text_field"/>
+                    <field name="my_text_field" widget="ag_json_viewer"/>
                 </group>
             </sheet>
         </form>
