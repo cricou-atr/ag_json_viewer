@@ -40,7 +40,7 @@ The ``JSON Viewer`` accepts an optional ``options`` argument. The supported opti
 
 About
 =====
-Authors
-~~~~~~~
+Author
+~~~~~~
 
 * Ambition Telecom & Réseaux
