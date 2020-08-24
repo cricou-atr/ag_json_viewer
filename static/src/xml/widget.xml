@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <t t-name="AgJSONViewer">
+        <t t-if="widget.mode != 'readonly'">
+            <textarea t-attf-class="{{widget.widget_class}}"
+                      t-att-id="widget.id_for_label"
+                      t-att-value="widget.value or ''">
+                <t t-esc="widget.value"/>
+            </textarea>
+        </t>
+        <t t-if="widget.mode == 'readonly'">
+            <span t-att-style="widget.attrs.style">
+                <div id="json_viewer">
+                </div>
+            </span>
+        </t>
+    </t>
+</templates>

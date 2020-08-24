@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+<odoo>
+    <template id="assets_backend" name="helpdesk assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/ambigroup_json_viewer/static/src/js/json_viewer.js"/>
+            <script type="text/javascript" src="/ambigroup_json_viewer/static/lib/json_viewer/jquery.json_viewer.js"/>
+            <link rel="stylesheet" href="/ambigroup_json_viewer/static/lib/json_viewer/jquery.json_viewer.css"/>
+        </xpath>
+    </template>
+</odoo>
