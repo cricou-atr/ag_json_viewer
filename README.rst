@@ -44,4 +44,4 @@ Author
 ~~~~~~
 
 * Cyril RICOU @ Ambition Telecom & Réseaux
-* Mathias Mangon @ Ambition Telecom & Réseaux
+* Mathias MANGON @ Ambition Telecom & Réseaux
