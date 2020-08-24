@@ -6,10 +6,6 @@ odoo.define('ambigroup_json_viewer.Field', function(require){
     var AGJSONViewer = basic_fields.FieldText.extend({
         widget_class:'o_field_text o_field_widget o_input',
         template: 'AgJSONViewer',
-        init:function(){
-            this._super.apply(this,arguments);
-            console.log(this)
-        },
 
         _renderReadonly: function () {
             console.log(this.attrs.options)
