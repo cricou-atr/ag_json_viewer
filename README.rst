@@ -1,8 +1,8 @@
 ===========================
-JSON Viewer
+JSON Viewer for Odoo
 ===========================
 
-This widget is an integration of `jQuery json-viewer <https://github.com/abodelot/jquery.json-viewer>`_ by `abodelot <https://github.com/abodelot>`_
+This widget is an Odoo integration of `jQuery json-viewer <https://github.com/abodelot/jquery.json-viewer>`_ by `abodelot <https://github.com/abodelot>`_
 
 Usage
 =====
