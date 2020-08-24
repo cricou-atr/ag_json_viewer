@@ -2,7 +2,7 @@
 JSON Viewer for Odoo
 ===========================
 
-This widget is an Odoo integration of `jQuery json-viewer <https://github.com/abodelot/jquery.json-viewer>`_ by `abodelot <https://github.com/abodelot>`_
+This widget is an Odoo integration of `jQuery json-viewer <https://github.com/abodelot/jquery.json-viewer>`_
 
 Usage
 =====
@@ -26,8 +26,8 @@ Options
 
 The ``JSON Viewer`` accepts an optional ``options`` argument. The supported options are:
 
-- ``collapsed`` (boolean, default: ``false``): all nodes are collapsed at html generation.
-- ``rootCollapsable`` (boolean, default: `true`): allow root element to be collasped.
+- ``collapsed`` (boolean, default: ``false``): all nodes are collapsed at HTML generation.
+- ``rootCollapsable`` (boolean, default: `true`): allow root element to be collapsed.
 - ``withQuotes`` (boolean, default: ``false``): all JSON keys are surrounded with double quotation marks (``{"foobar": 1}`` instead of ``{foobar: 1}``).
 - ``withLinks`` (boolean, default: ``true``): all values that are valid links will be clickable, if ``false`` they will only be strings.
 
@@ -43,4 +43,5 @@ About
 Author
 ~~~~~~
 
-* Ambition Telecom & Réseaux
+* Cyril RICOU @ Ambition Telecom & Réseaux
+* Mathias Mangon @ Ambition Telecom & Réseaux
