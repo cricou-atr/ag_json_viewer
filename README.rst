@@ -4,6 +4,17 @@ JSON Viewer for Odoo
 
 This widget is an Odoo integration of `jQuery json-viewer <https://github.com/abodelot/jquery.json-viewer>`_
 
+
+Without widget
+==============
+.. image:: https://raw.githubusercontent.com/cricou-atr/ag_json_viewer/12.0/images/std_text_view.PNG?token=AKLEJQPTOIXFJ2HJKFGNHNK7IPPWA
+ :width: 800
+
+With widget
+===========
+.. image:: https://raw.githubusercontent.com/cricou-atr/ag_json_viewer/12.0/images/json_viewer.PNG?token=AKLEJQLMUDTWNQTTD6NCVNC7IPP56
+ :width: 800
+
 Usage
 =====
 
