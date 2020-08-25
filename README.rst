@@ -7,12 +7,12 @@ This widget is an Odoo integration of `jQuery json-viewer <https://github.com/ab
 
 Without widget
 ==============
-.. image:: https://raw.githubusercontent.com/cricou-atr/ag_json_viewer/12.0/images/std_text_view.PNG?token=AKLEJQPTOIXFJ2HJKFGNHNK7IPPWA
+.. image:: https://firebasestorage.googleapis.com/v0/b/git-demo-5c6e0.appspot.com/o/ag_json_viewer%2Fstd_text_view.PNG?alt=media&token=b3a9910b-6e51-40e6-9bdb-bbe1e8f1c696
  :width: 800
 
 With widget
 ===========
-.. image:: https://raw.githubusercontent.com/cricou-atr/ag_json_viewer/12.0/images/json_viewer.PNG?token=AKLEJQLMUDTWNQTTD6NCVNC7IPP56
+.. image:: https://firebasestorage.googleapis.com/v0/b/git-demo-5c6e0.appspot.com/o/ag_json_viewer%2Fjson_viewer.PNG?alt=media&token=8cb04c17-a82b-4436-8877-bf1bddb4992e
  :width: 800
 
 Usage
