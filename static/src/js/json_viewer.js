@@ -8,7 +8,6 @@ odoo.define('ambigroup_json_viewer.Field', function(require){
         template: 'AgJSONViewer',
 
         _renderReadonly: function () {
-            console.log(this.attrs.options)
             var options = this.attrs.options;
             try{
                 var data = JSON.parse(this.value)
