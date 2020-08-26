@@ -38,7 +38,7 @@ Options
 The ``JSON Viewer`` accepts an optional ``options`` argument. The supported options are:
 
 - ``collapsed`` (boolean, default: ``false``): all nodes are collapsed at HTML generation.
-- ``rootCollapsable`` (boolean, default: `true`): allow root element to be collapsed.
+- ``rootCollapsable`` (boolean, default: ``true``): allow root element to be collapsed.
 - ``withQuotes`` (boolean, default: ``false``): all JSON keys are surrounded with double quotation marks (``{"foobar": 1}`` instead of ``{foobar: 1}``).
 - ``withLinks`` (boolean, default: ``true``): all values that are valid links will be clickable, if ``false`` they will only be strings.
 
