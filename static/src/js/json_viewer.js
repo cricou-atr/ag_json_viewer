@@ -14,7 +14,12 @@ odoo.define('ambigroup_json_viewer.Field', function(require){
                 if(options === undefined){
                     this.$el.find('div#json_viewer').jsonViewer(data);
                 }else{
-                    this.$el.find('div#json_viewer').jsonViewer(data, options);
+                    this.$el.find('div#json_viewer').jsonViewer(data, {
+								            collapsed: options['collapsed'],
+									    rootCollapsable: options['rootCollapsable'],
+									    withQuotes: options['withQuotes'],
+									    withLinks: options['withLinks']
+									});
                 }
             } catch(error)
             {
