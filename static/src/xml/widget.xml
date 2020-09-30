@@ -10,8 +10,8 @@
         </t>
         <t t-if="widget.mode == 'readonly'">
             <span t-att-style="widget.attrs.style">
-                <div id="json_viewer">
-                </div>
+                <pre id="json_viewer">
+                </pre>
             </span>
         </t>
     </t>
